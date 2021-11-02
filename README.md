@@ -6,4 +6,6 @@
 - Basic paint functionalities such as brush, eraser & color picker.
 - Save/Load/Clear canvas status from LocalStorage.
 - Download the canvas as an image
+
+## Live Version https://paint-clone-js.vercel.app/
  
